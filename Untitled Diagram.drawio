@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T16:10:59.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="xIPpg38Jt9EKi0hG4XXQ" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T16:30:59.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="n_JUXC7l3JlllvQD1N0F" version="24.0.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="794" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,6 +92,9 @@
           <mxGeometry x="294" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AcaWDjkYfXCfkDgr_5su-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AcaWDjkYfXCfkDgr_5su-67" target="AcaWDjkYfXCfkDgr_5su-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AcaWDjkYfXCfkDgr_5su-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AcaWDjkYfXCfkDgr_5su-67" target="AcaWDjkYfXCfkDgr_5su-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AcaWDjkYfXCfkDgr_5su-67" value="&lt;div style=&quot;font-size: 10px; line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u&gt;&lt;b&gt;Objetivo negocio 4&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;u&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Eficiencia operativa &amp;gt; 95%&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
